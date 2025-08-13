@@ -176,9 +176,6 @@
         - !type:OrganType
           type: Novakid
           shouldHave: true
-        ratios:
-          BZ: 0.4
-          Plasma: -1.0
       # End ADT tweak
       # We need a metabolism effect on reagent removal
       - !type:AdjustAlert
